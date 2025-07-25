@@ -4,7 +4,7 @@
 
 #### 1. Download and install DbVisualizer for your system from the [official website](https://www.dbvis.com/download/) (tested on `v24.3.4`)
 
-#### 2. Download `dbvisualizer-agent.jar` from the [release page](https://github.com/xiaguliuxiang/dbvisualizer-agent/releases)
+#### 2. Download `dbvisualizer-agent.jar` from the [release page](https://github.com/Gasprinskiy/dbv-licence/releases)
 
 #### 3. Place `dbvisualizer-agent.jar` in `/home/username/.dbvis` or another preferred location
 
