@@ -1,6 +1,6 @@
 ### DbVisualizer License (Ubuntu)
 
-#### [Source](https://github.com/xiaguliuxiang/dbvisualizer-agent/issues/10)
+#### [Source repo](https://github.com/xiaguliuxiang/dbvisualizer-agent)
 
 #### 1. Download and install DbVisualizer for your system from the [official website](https://www.dbvis.com/download/) (tested on `v24.3.4`)
 
